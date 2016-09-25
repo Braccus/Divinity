@@ -1,13 +1,13 @@
-Magister Atusa - Магистр Атуса (жен)
-Amadia - Амадия
-Alexandar - Александар
-Ifan ben-Mezd - Ифан бен-Мезд
-Han - Хан
-Verdas - Вердас
-Lone Wolf - Одинокий Волк
-Braccus Rex - Король Бракк
-Stingtail - Жалохвост
-Voidwoken - Безднорожденный
-Shepherd - Пастырь
-Lord Kemm - Лорд Кемм
-Arx (место) - Аркс
+Magister Atusa - РњР°РіРёСЃС‚СЂ РђС‚СѓСЃР° (Р¶РµРЅ)
+Amadia - РђРјР°РґРёСЏ
+Alexandar - РђР»РµРєСЃР°РЅРґР°СЂ
+Ifan ben-Mezd - РС„Р°РЅ Р±РµРЅ-РњРµР·Рґ
+Han - РҐР°РЅ
+Verdas - Р’РµСЂРґР°СЃ
+Lone Wolf - РћРґРёРЅРѕРєРёР№ Р’РѕР»Рє
+Braccus Rex - РљРѕСЂРѕР»СЊ Р‘СЂР°РєРє
+Stingtail - Р–Р°Р»РѕС…РІРѕСЃС‚
+Voidwoken - Р‘РµР·РґРЅРѕСЂРѕР¶РґРµРЅРЅС‹Р№
+Shepherd - РџР°СЃС‚С‹СЂСЊ
+Lord Kemm - Р›РѕСЂРґ РљРµРјРј
+Arx (РјРµСЃС‚Рѕ) - РђСЂРєСЃ
